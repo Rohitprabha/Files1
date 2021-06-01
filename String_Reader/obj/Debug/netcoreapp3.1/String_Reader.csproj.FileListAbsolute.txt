@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\String_Reader\bin\Debug\netcoreapp3.1\String_Reader.exe
+C:\Users\Rohit Dasari\source\repos\String_Reader\bin\Debug\netcoreapp3.1\String_Reader.deps.json
+C:\Users\Rohit Dasari\source\repos\String_Reader\bin\Debug\netcoreapp3.1\String_Reader.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\String_Reader\bin\Debug\netcoreapp3.1\String_Reader.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\String_Reader\bin\Debug\netcoreapp3.1\String_Reader.dll
+C:\Users\Rohit Dasari\source\repos\String_Reader\bin\Debug\netcoreapp3.1\String_Reader.pdb
+C:\Users\Rohit Dasari\source\repos\String_Reader\obj\Debug\netcoreapp3.1\String_Reader.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\String_Reader\obj\Debug\netcoreapp3.1\String_Reader.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\String_Reader\obj\Debug\netcoreapp3.1\String_Reader.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\String_Reader\obj\Debug\netcoreapp3.1\String_Reader.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\String_Reader\obj\Debug\netcoreapp3.1\String_Reader.dll
+C:\Users\Rohit Dasari\source\repos\String_Reader\obj\Debug\netcoreapp3.1\String_Reader.pdb
+C:\Users\Rohit Dasari\source\repos\String_Reader\obj\Debug\netcoreapp3.1\String_Reader.genruntimeconfig.cache
